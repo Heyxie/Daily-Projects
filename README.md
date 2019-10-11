@@ -1,4 +1,4 @@
-# C amera2  
+# Camera2  
 
 使用Android camera2 API开发的自定义摄像机。  
 
